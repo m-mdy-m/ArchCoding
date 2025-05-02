@@ -1,3 +1,0 @@
-- **Finite State Machines (FSM)**
-- **State Transition Diagrams**
-- **Event-Driven State Machines**

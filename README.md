@@ -1,10 +1,14 @@
-# about
-This repository is a companion to my personal learning journey in the world of programming paradigms and techniques.
+# ArchCode
 
-I will share everything that I think is important about these concepts in the form of links or if there are concepts that are difficult for me to understand, I will write and share them (probably in the form of an article). Also, I have my own learning list from GPT. I got 4 that you can see in this file. (If there is a problem, please fix it as a PR)
+A companion to my personal learning journey through programming paradigms, CS theory, software engineering techniques, systems and hardware concepts, and more.
 
-# follow
-Feel free to follow my learning path and adapt it to your needs. Use the resources I discover and discover additional material to strengthen your understanding.
+## About
 
-# to help
-This repository is primarily for personal learning purposes. However, if you have any suggestions or relevant resources to share, feel free to open a thread or make a request!
+This repository is where I collect and share everything important about:
+
+- Programming paradigms (OO, Functional, Logic, etc.)
+- Language concepts (type systems, metaprogramming, evaluation strategies)
+- CS theory (automata, complexity, formal languages)
+- Software engineering techniques (TDD, BDD, DDD, MBT, CI/CD)
+- Systems & hardware fundamentals
+- Hands‑on exercises and project examples

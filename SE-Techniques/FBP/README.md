@@ -1,4 +1,0 @@
-- **Components and Black-Box Processes**
-- **Information Packets (IPs)**
-- **Directed Graphs**
-- **Asynchronous Data Flow**

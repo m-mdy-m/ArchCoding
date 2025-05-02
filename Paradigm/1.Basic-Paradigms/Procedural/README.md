@@ -1,5 +1,0 @@
-- **Modularity**
-- **Procedure Calls**
-- **State Management**:
-  - **Global State**
-  - **Local State**

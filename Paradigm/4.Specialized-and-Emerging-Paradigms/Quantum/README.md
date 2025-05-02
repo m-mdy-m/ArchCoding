@@ -1,4 +1,0 @@
-- **Quantum Bits (Qubits)**
-- **Superposition and Entanglement**
-- **Quantum Gates**
-- **Quantum Algorithms (e.g., Shor's, Grover's)**

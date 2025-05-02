@@ -1,9 +1,0 @@
-- **Control Flow**
-- **Subroutines and Functions**
-- **Procedural Abstraction**
-- **Variable Scope and Lifetime**:
-  - **Local vs. Global Variables**
-  - **Block Scope**
-- **Pass by Value vs Pass by Reference**:
-  - **Value Semantics**
-  - **Reference Semantics**
